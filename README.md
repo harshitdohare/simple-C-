@@ -1,2 +1,2 @@
-# simple-C-
+# simple-CPP
 Basic Question of C++
